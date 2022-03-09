@@ -1,5 +1,12 @@
 [package]
 name = "disown"
 version = "1.0.0"
+authors = ["Colin Woodbury <colin@fosskers.ca>"]
 edition = "2021"
-
+description = "Drop ownership via a method."
+homepage = "https://github.com/fosskers/disown"
+repository = "https://github.com/fosskers/disown"
+readme = "README.md"
+license = "MIT"
+keywords = ["drop"]
+categories = ["rust-patterns"]
